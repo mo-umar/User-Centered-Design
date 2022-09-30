@@ -22,7 +22,7 @@ Once you have collected data from your methods, describe the major requests from
 Using the data from your user research and the guidelines presented in class, create one fictional persona. This persona should be realistic, but based on an aggregation of the data you've collected on potential users and their goals. Each persona should be presented on a single page, include a picture, a name, a representative quote, a short biography, goals for the system, demographic data, and technical background. NOTE: Your persona might be a typical users that is not necessarily your partner.
 
 ## Deliverable #2 - Functional Requirements and HTA
-Using the functional requirements that you provided previously and any additional plans for the application, create a Hierachical Task Analysis that supports EVERY screen you plan to include in your functionality.  NOTE: Sketches of the screens are not required for this assignment. 
+Using the functional requirements that you provided previously and any additional plans for the application, create a Hierachical Task Analysis that supports EVERY screen you plan to include in your functionality.
 
 Please start with a BRIEF (2-3 sentence) paragraph (not bullets) that highlights your functionality. If it was done correctly, you should be able to re-use some or all of what you provided in deliverable #1.   
 
