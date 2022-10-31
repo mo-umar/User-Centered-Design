@@ -29,3 +29,12 @@ Please start with a BRIEF (2-3 sentence) paragraph (not bullets) that highlights
 Your HTA should follow and be numbered in an outlined fashion like the example. Please label the features 1, 2, 3, and 4, with your subtasks appropriately numbered and indented.  You may find that it helps to start with a flow chart (if you are a visual learner), but do not submit a flowchart in place of the outline. Once again, your offerings should have sufficient depth to have some substance here.  If your HTA is less than a two pages single spaced, you need to ask your user to work with you to beef up the requirements.  
 
 At the very minimum, you should represent of all of the screens that support the depth and breadth of your features.
+
+## Deliverable #3 - Digital Screens
+For this assignment, please demonstrate that you are working on your DIGITAL screens in Marvel.
+I would recommend you go ahead and create your screens in Marvel (they do not have to be created separately in a digital sketching tool) but DO NOT SUBMIT A LINK TO MARVEL!  Your screens MUST be submitted here in a Word or PDF document.  See the bottom of these instructions for an example.
+1) your splash screen
+2) the main menu (with links to all features of your functionality)
+3) at least THREE additional goals or sub-task screens.  This can be for the same or different features.
+
+Your finished document will contain precisely 5 screens.  PLEASE DO NOT SUBMIT MORE, EVEN IF THEY ARE READY!   Please review the information in module 0 regarding what screens I do not want to see (user setup, checkout, login, etc.).
