@@ -38,3 +38,24 @@ I would recommend you go ahead and create your screens in Marvel (they do not ha
 3) at least THREE additional goals or sub-task screens.  This can be for the same or different features.
 
 Your finished document will contain precisely 5 screens.  PLEASE DO NOT SUBMIT MORE, EVEN IF THEY ARE READY!   Please review the information in module 0 regarding what screens I do not want to see (user setup, checkout, login, etc.).
+
+## Deliverable #4 - Testing Report / Prototype Evaluation
+**YOUR PARTNER SHOULD DO THE TESTING, NOT YOU!  YOU ARE CONDUCTING THE TESTING ON WHAT YOU HAVE CREATED FOR YOUR USER!**
+
+**YOU ARE EXPECTED TO BE ENGAGED AND CONDUCT YOUR PARTNER'S TEST EFFORTS!  You are not required to meet, so you should arrange your testing to be conducted virtually.  You will provide your prototype, along with 10-12 test cases, and get feedback from your user.  You will then report your findings.**
+
+**1.  Evaluate the functionality **
+
+Provide 10-12 test cases to your user.  The do not have to be formally written; you can provide a bulleted list based on what you want your user to test.  Conduct a formative evaluation.
+
+**2. Use the feedback obtained in step 1 to suggest improvements to your design **
+
+For every element of functionality in your design, indicate the problems (or lack of problems) that you found.  Remember that problems WILL BE FOUND in the first round of testing, so indicating you had no problems is not acceptable.  Indicate in your paper the changes you would make to correct these problems.  Make sure you document them for this deliverable! 
+
+**3.  Repeat steps 1-2, with at least one external user.** 
+
+This person does not need to be an expert or even know anything about the functionality provided with your prototype.
+
+**4. Evaluate your system  **
+
+The most important aspect of this project is to develop a prototype that conveys the interaction with the system as well as the overall experience.  The prototype must be usable by a person (i.e., your potential users) to simulate the experience of using it. 
