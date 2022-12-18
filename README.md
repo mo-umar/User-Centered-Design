@@ -1,4 +1,6 @@
 # User Centered Design Project
+## Prototype Link
+https://marvelapp.com/prototype/e4g2fe8
 ## Deliverable #1 - Data Gathering and User Analysis
 Your first task is to meet with your partner and present the functionalities you requested and have had approved. You may not duplicate efforts; a functionality can be built by ONLY ONE PERSON.
 
@@ -44,11 +46,11 @@ Your finished document will contain precisely 5 screens.  PLEASE DO NOT SUBMIT M
 
 **YOU ARE EXPECTED TO BE ENGAGED AND CONDUCT YOUR PARTNER'S TEST EFFORTS!  You are not required to meet, so you should arrange your testing to be conducted virtually.  You will provide your prototype, along with 10-12 test cases, and get feedback from your user.  You will then report your findings.**
 
-**1.  Evaluate the functionality **
+**1.  Evaluate the functionality**
 
 Provide 10-12 test cases to your user.  The do not have to be formally written; you can provide a bulleted list based on what you want your user to test.  Conduct a formative evaluation.
 
-**2. Use the feedback obtained in step 1 to suggest improvements to your design **
+**2. Use the feedback obtained in step 1 to suggest improvements to your design**
 
 For every element of functionality in your design, indicate the problems (or lack of problems) that you found.  Remember that problems WILL BE FOUND in the first round of testing, so indicating you had no problems is not acceptable.  Indicate in your paper the changes you would make to correct these problems.  Make sure you document them for this deliverable! 
 
@@ -56,6 +58,6 @@ For every element of functionality in your design, indicate the problems (or lac
 
 This person does not need to be an expert or even know anything about the functionality provided with your prototype.
 
-**4. Evaluate your system  **
+**4. Evaluate your system**
 
 The most important aspect of this project is to develop a prototype that conveys the interaction with the system as well as the overall experience.  The prototype must be usable by a person (i.e., your potential users) to simulate the experience of using it. 
